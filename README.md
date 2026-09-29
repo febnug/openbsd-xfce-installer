@@ -1,0 +1,1 @@
+# openbsd-xfce-installer
